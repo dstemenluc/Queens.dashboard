@@ -1,4 +1,4 @@
-﻿Charge Severity,Unconditional Discharge,Conditional Discharge,Community Supervision,Other Non-custodial Sentence,Time Served,County Sentence,State Sentence
-Violent Felony Offense (VFO),0,36,67,0,9,78,454
-Felony (Non-VFO),1,93,183,1,9,162,278
-Misdemeanor,1,2097,196,62,515,1395,1
+﻿Charge Severity,Conditional Discharge,Community Supervision,Other Non-custodial Sentence,Time Served,County Sentence,State Sentence
+Violent Felony Offense (VFO),36,67,0,9,78,454
+Felony (Non-VFO),93,183,1,9,162,278
+Misdemeanor,2097,196,62,515,1395,1

@@ -1,6 +1,6 @@
-﻿Race,Unconditional Discharge,Conditional Discharge,Community Supervision,Other Non-custodial Sentence,Time Served,County Sentence,State Sentence
-Hispanic,9,3672,142,734,675,630,192
-Black,8,3261,209,861,680,788,380
-Asian,2,1109,41,175,158,158,54
-White,3,996,44,95,202,237,56
-Another Race/Unknown,0,158,10,28,31,47,51
+﻿Race,Conditional Discharge,Community Supervision,Other Non-custodial Sentence,Time Served,County Sentence,State Sentence
+Hispanic,3672,142,734,675,630,192
+Black,3261,209,861,680,788,380
+Asian,1109,41,175,158,158,54
+White,996,44,95,202,237,56
+Another Race/Unknown,158,10,28,31,47,51
