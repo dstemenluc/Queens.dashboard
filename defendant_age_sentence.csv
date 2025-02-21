@@ -1,6 +1,6 @@
-﻿Age,Community Supervision,Conditional Discharge,County Sentence,Other Non-custodial Sentence,State Sentence,Time Served,Unconditional Discharge
-<18,18,3,19,2,16,0,0
-18-24,109,1510,260,380,176,237,4
-25-29,85,1564,249,451,144,303,3
-30-39,109,3042,646,592,221,547,4
-40+,125,3077,686,468,176,659,11
+﻿Age,Unconditional Discharge,Conditional Discharge,Community Supervision,Other Non-custodial Sentence,Time Served,County Sentence,State Sentence
+<18,0,3,18,2,0,19,16
+18-24,4,1510,109,380,237,260,176
+25-29,3,1564,85,451,303,249,144
+30-39,4,3042,109,592,547,646,221
+40+,11,3077,125,468,659,686,176
