@@ -1,3 +1,4 @@
-﻿Gender,Conditional Discharge,Community Supervision,Other Non-custodial Sentence,Time Served,County Sentence,State Sentence
-Female,1314,56,127,274,165,22
-Male,7863,390,1763,1468,1688,707
+﻿Gender,Non-custodial Sentence,Time Served,Jail,Prison
+Female,1497,274,165,22
+Male,10038,1468,1688,707
+Unknown,22,4,7,4
